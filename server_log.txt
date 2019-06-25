@@ -1,0 +1,3821 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[13:36:28] 
+[13:36:28] Server Plugins
+[13:36:28] --------------
+[13:36:28]  Loading plugin: streamer.dll
+[13:36:28]   Loaded.
+[13:36:28]  Loading plugin: sscanf.dll
+[13:36:28] 
+
+[13:36:28]  ===============================
+
+[13:36:28]       sscanf plugin loaded.     
+
+[13:36:28]          Version:  2.8.1        
+
+[13:36:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:36:28]  ===============================
+
+[13:36:28]   Loaded.
+[13:36:28]  Loading plugin: mysql.dll
+[13:36:28] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[13:36:28]   Loaded.
+[13:36:28]  Loading plugin: crashdetect.dll
+[13:36:28]   crashdetect v4.8.5 is OK.
+[13:36:28]   Loaded.
+[13:36:28]  Loaded 4 plugins.
+
+[13:36:28] I couldn't load any gamemode scripts. Please verify your server.cfg
+[13:36:28] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[15:54:12] 
+[15:54:12] Server Plugins
+[15:54:12] --------------
+[15:54:12]  Loading plugin: streamer.dll
+[15:54:12]   Loaded.
+[15:54:12]  Loading plugin: sscanf.dll
+[15:54:12] 
+
+[15:54:12]  ===============================
+
+[15:54:12]       sscanf plugin loaded.     
+
+[15:54:12]          Version:  2.8.1        
+
+[15:54:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:54:12]  ===============================
+
+[15:54:12]   Loaded.
+[15:54:12]  Loading plugin: mysql.dll
+[15:54:13] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[15:54:13]   Loaded.
+[15:54:13]  Loading plugin: crashdetect.dll
+[15:54:13]   crashdetect v4.8.5 is OK.
+[15:54:13]   Loaded.
+[15:54:13]  Loaded 4 plugins.
+
+[15:54:13] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:54:13] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[15:54:29] 
+[15:54:29] Server Plugins
+[15:54:29] --------------
+[15:54:29]  Loading plugin: streamer.dll
+[15:54:29]   Loaded.
+[15:54:29]  Loading plugin: sscanf.dll
+[15:54:29] 
+
+[15:54:29]  ===============================
+
+[15:54:29]       sscanf plugin loaded.     
+
+[15:54:29]          Version:  2.8.1        
+
+[15:54:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:54:29]  ===============================
+
+[15:54:29]   Loaded.
+[15:54:29]  Loading plugin: mysql.dll
+[15:54:29] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[15:54:29]   Loaded.
+[15:54:29]  Loading plugin: crashdetect.dll
+[15:54:29]   crashdetect v4.8.5 is OK.
+[15:54:29]   Loaded.
+[15:54:29]  Loaded 4 plugins.
+
+[15:54:29] 
+[15:54:29] Filterscripts
+[15:54:29] ---------------
+[15:54:29]   Loading filterscript 'cameditor.amx'...
+[15:54:29] 
+--------------------------------------
+[15:54:29]  CamEditor by Drebin
+[15:54:29] --------------------------------------
+
+[15:54:29]   Loaded 1 filterscripts.
+
+[15:54:29] *** Streamer Plugin: Warning: Include file version (0x26105) does not match plugin version (0x27101) (script might need to be recompiled with the latest include file)
+[15:54:29] OnGameo
+[15:54:29] 
+
+---------------------------------------------------
+[15:54:29] [GM System]: Starting GameMode..
+[15:54:29] [GM System]: Main functions of the server is loading...
+[15:54:29] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[15:54:29] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 58ms
+
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:29] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:30] - biznio uþkrauta 0 LT
+[15:54:51] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[15:54:52] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] *** CreateDynamicObject: Expecting 12 parameter(s), but found 11
+[15:54:52] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[15:54:52]       Tikras Kaimeliø Gyvenimas 
+[15:54:52]       Tinklapis: www.NKG.LT
+[15:54:52]     ------------------------
+
+
+
+
+
+
+
+
+[15:54:52] Originaliø objektø skaicius: 348
+[15:54:52] CreateDynamicObject skaicius: 9.781
+[15:54:52] Number of vehicle models: 43
+[15:55:28] Incoming connection: 192.168.1.117:64122
+[15:55:28] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[15:55:28] Prisijunges 0
+[15:57:36] Paspaudþiu spawn ir numeta 1
+[15:57:37] Saugojimas Tomy_Morello þaidëjas
+[15:58:18] Saugojimas Tomy_Morello þaidëjas
+[15:58:18] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[16:06:24] 
+[16:06:24] Server Plugins
+[16:06:24] --------------
+[16:06:24]  Loading plugin: streamer.dll
+[16:06:24]   Loaded.
+[16:06:24]  Loading plugin: sscanf.dll
+[16:06:24] 
+
+[16:06:24]  ===============================
+
+[16:06:24]       sscanf plugin loaded.     
+
+[16:06:24]          Version:  2.8.1        
+
+[16:06:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:06:24]  ===============================
+
+[16:06:24]   Loaded.
+[16:06:24]  Loading plugin: mysql.dll
+[16:06:24] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[16:06:24]   Loaded.
+[16:06:24]  Loading plugin: crashdetect.dll
+[16:06:24]   crashdetect v4.8.5 is OK.
+[16:06:25]   Loaded.
+[16:06:25]  Loaded 4 plugins.
+
+[16:06:25] 
+[16:06:25] Filterscripts
+[16:06:25] ---------------
+[16:06:25]   Loading filterscript 'cameditor.amx'...
+[16:06:25] 
+--------------------------------------
+[16:06:25]  CamEditor by Drebin
+[16:06:25] --------------------------------------
+
+[16:06:25]   Loaded 1 filterscripts.
+
+[16:06:25] 
+
+---------------------------------------------------
+[16:06:25] [GM System]: Starting GameMode..
+[16:06:25] [GM System]: Main functions of the server is loading...
+[16:06:25] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[16:06:25] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 63ms
+
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:25] - biznio uþkrauta 0 LT
+[16:06:57] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[16:07:00] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[16:07:00] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[16:07:00]       Tikras Kaimeliø Gyvenimas 
+[16:07:00]       Tinklapis: www.NKG.LT
+[16:07:00]     ------------------------
+
+
+
+
+
+
+
+
+[16:07:00] Originaliø objektø skaicius: 281
+[16:07:00] CreateDynamicObject skaicius: 9.156
+[16:07:00] Number of vehicle models: 42
+[16:11:36] Incoming connection: 192.168.1.117:59988
+[16:11:37] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[16:11:37] Prisijunges 0
+[16:11:58] Paspaudþiu spawn ir numeta 1
+[16:12:00] Uþkraunamas Tomy_Morello þaidëjas
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[16:40:45] 
+[16:40:45] Server Plugins
+[16:40:45] --------------
+[16:40:45]  Loading plugin: streamer.dll
+[16:40:45]   Loaded.
+[16:40:45]  Loading plugin: sscanf.dll
+[16:40:45] 
+
+[16:40:45]  ===============================
+
+[16:40:45]       sscanf plugin loaded.     
+
+[16:40:45]          Version:  2.8.1        
+
+[16:40:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:40:45]  ===============================
+
+[16:40:45]   Loaded.
+[16:40:45]  Loading plugin: mysql.dll
+[16:40:45] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[16:40:45]   Loaded.
+[16:40:45]  Loading plugin: crashdetect.dll
+[16:40:45]   crashdetect v4.8.5 is OK.
+[16:40:45]   Loaded.
+[16:40:45]  Loaded 4 plugins.
+
+[16:40:45] 
+[16:40:45] Filterscripts
+[16:40:45] ---------------
+[16:40:45]   Loading filterscript 'cameditor.amx'...
+[16:40:45] 
+--------------------------------------
+[16:40:45]  CamEditor by Drebin
+[16:40:45] --------------------------------------
+
+[16:40:45]   Loaded 1 filterscripts.
+
+[16:40:46] 
+
+---------------------------------------------------
+[16:40:46] [GM System]: Starting GameMode..
+[16:40:46] [GM System]: Main functions of the server is loading...
+[16:40:46] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[16:40:46] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 132ms
+
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:40:46] - biznio uþkrauta 0 LT
+[16:41:15] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[16:41:16] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[16:41:16] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[16:41:16]       Tikras Kaimeliø Gyvenimas 
+[16:41:16]       Tinklapis: www.NKG.LT
+[16:41:16]     ------------------------
+
+
+
+
+
+
+
+
+[16:41:16] Originaliø objektø skaicius: 289
+[16:41:16] CreateDynamicObject skaicius: 9.208
+[16:41:16] Number of vehicle models: 42
+[16:43:33] Incoming connection: 192.168.1.117:53577
+[16:43:33] [join] Tomy_Morelloo has joined the server (0:192.168.1.117)
+[16:43:33] Prisijunges 0
+[16:44:15] Paspaudþiu spawn ir numeta 1
+[16:44:16] Saugojimas Tomy_Morelloo þaidëjas
+[16:45:17] Saugojimas Tomy_Morelloo þaidëjas
+[16:45:17] [part] Tomy_Morelloo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[16:50:49] 
+[16:50:49] Server Plugins
+[16:50:49] --------------
+[16:50:49]  Loading plugin: streamer.dll
+[16:50:49]   Loaded.
+[16:50:49]  Loading plugin: sscanf.dll
+[16:50:49] 
+
+[16:50:49]  ===============================
+
+[16:50:49]       sscanf plugin loaded.     
+
+[16:50:49]          Version:  2.8.1        
+
+[16:50:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:50:49]  ===============================
+
+[16:50:49]   Loaded.
+[16:50:49]  Loading plugin: mysql.dll
+[16:50:49] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[16:50:49]   Loaded.
+[16:50:49]  Loading plugin: crashdetect.dll
+[16:50:49]   crashdetect v4.8.5 is OK.
+[16:50:49]   Loaded.
+[16:50:49]  Loaded 4 plugins.
+
+[16:50:49] 
+[16:50:49] Filterscripts
+[16:50:49] ---------------
+[16:50:49]   Loading filterscript 'cameditor.amx'...
+[16:50:49] 
+--------------------------------------
+[16:50:49]  CamEditor by Drebin
+[16:50:50] --------------------------------------
+
+[16:50:50]   Loaded 1 filterscripts.
+
+[16:50:50] 
+
+---------------------------------------------------
+[16:50:50] [GM System]: Starting GameMode..
+[16:50:50] [GM System]: Main functions of the server is loading...
+[16:50:50] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[16:50:50] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 63ms
+
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:50:50] - biznio uþkrauta 0 LT
+[16:52:01] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[16:52:04] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[16:52:04] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[16:52:04]       Tikras Kaimeliø Gyvenimas 
+[16:52:04]       Tinklapis: www.NKG.LT
+[16:52:04]     ------------------------
+
+
+
+
+
+
+
+
+[16:52:04] Originaliø objektø skaicius: 290
+[16:52:04] CreateDynamicObject skaicius: 9.207
+[16:52:04] Number of vehicle models: 42
+[16:55:42] Incoming connection: 192.168.1.117:59410
+[16:55:42] [join] Tomy_Morelloo has joined the server (0:192.168.1.117)
+[16:55:42] Prisijunges 0
+[16:55:50] Paspaudþiu spawn ir numeta 1
+[16:55:55] Uþkraunamas Tomy_Morelloo þaidëjas
+[16:56:34] Saugojimas Tomy_Morelloo þaidëjas
+[16:56:34] [part] Tomy_Morelloo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[17:06:26] 
+[17:06:26] Server Plugins
+[17:06:26] --------------
+[17:06:26]  Loading plugin: streamer.dll
+[17:06:26]   Loaded.
+[17:06:26]  Loading plugin: sscanf.dll
+[17:06:26] 
+
+[17:06:26]  ===============================
+
+[17:06:26]       sscanf plugin loaded.     
+
+[17:06:26]          Version:  2.8.1        
+
+[17:06:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:06:26]  ===============================
+
+[17:06:26]   Loaded.
+[17:06:26]  Loading plugin: mysql.dll
+[17:06:27] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:06:27]   Loaded.
+[17:06:27]  Loading plugin: crashdetect.dll
+[17:06:27]   crashdetect v4.8.5 is OK.
+[17:06:27]   Loaded.
+[17:06:27]  Loaded 4 plugins.
+
+[17:06:27] 
+[17:06:27] Filterscripts
+[17:06:27] ---------------
+[17:06:27]   Loading filterscript 'cameditor.amx'...
+[17:06:27] 
+--------------------------------------
+[17:06:27]  CamEditor by Drebin
+[17:06:27] --------------------------------------
+
+[17:06:27]   Loaded 1 filterscripts.
+
+[17:06:27] 
+
+---------------------------------------------------
+[17:06:27] [GM System]: Starting GameMode..
+[17:06:27] [GM System]: Main functions of the server is loading...
+[17:06:27] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[17:06:27] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 56ms
+
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:27] - biznio uþkrauta 0 LT
+[17:06:57] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[17:06:58] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[17:06:58] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[17:06:58]       Tikras Kaimeliø Gyvenimas 
+[17:06:58]       Tinklapis: www.NKG.LT
+[17:06:58]     ------------------------
+
+
+
+
+
+
+
+
+[17:06:58] Originaliø objektø skaicius: 281
+[17:06:58] CreateDynamicObject skaicius: 9.139
+[17:06:58] Number of vehicle models: 46
+[17:07:29] Incoming connection: 192.168.1.117:50574
+[17:07:30] [join] Tomy_Morelloo has joined the server (0:192.168.1.117)
+[17:07:30] Prisijunges 0
+[17:07:38] Paspaudþiu spawn ir numeta 1
+[17:07:43] Uþkraunamas Tomy_Morelloo þaidëjas
+[17:08:50] [COMMAND]: Tomy_Morelloo /variklis
+[17:11:37] Saugojimas Tomy_Morelloo þaidëjas
+[17:11:37] [part] Tomy_Morelloo has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[17:27:32] 
+[17:27:32] Server Plugins
+[17:27:32] --------------
+[17:27:32]  Loading plugin: streamer.dll
+[17:27:32]   Loaded.
+[17:27:32]  Loading plugin: sscanf.dll
+[17:27:32] 
+
+[17:27:32]  ===============================
+
+[17:27:32]       sscanf plugin loaded.     
+
+[17:27:32]          Version:  2.8.1        
+
+[17:27:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:27:32]  ===============================
+
+[17:27:32]   Loaded.
+[17:27:32]  Loading plugin: mysql.dll
+[17:27:32] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:27:32]   Loaded.
+[17:27:32]  Loading plugin: crashdetect.dll
+[17:27:32]   crashdetect v4.8.5 is OK.
+[17:27:32]   Loaded.
+[17:27:32]  Loaded 4 plugins.
+
+[17:27:32] 
+[17:27:32] Filterscripts
+[17:27:32] ---------------
+[17:27:32]   Loading filterscript 'cameditor.amx'...
+[17:27:32] 
+--------------------------------------
+[17:27:32]  CamEditor by Drebin
+[17:27:32] --------------------------------------
+
+[17:27:32]   Loaded 1 filterscripts.
+
+[17:27:32] 
+
+---------------------------------------------------
+[17:27:32] [GM System]: Starting GameMode..
+[17:27:32] [GM System]: Main functions of the server is loading...
+[17:27:32] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[17:27:32] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 96ms
+
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:32] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:27:33] - biznio uþkrauta 0 LT
+[17:28:06] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[17:28:07] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[17:28:07] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[17:28:07]       Tikras Kaimeliø Gyvenimas 
+[17:28:07]       Tinklapis: www.NKG.LT
+[17:28:07]     ------------------------
+
+
+
+
+
+
+
+
+[17:28:07] Originaliø objektø skaicius: 281
+[17:28:07] CreateDynamicObject skaicius: 9.139
+[17:28:07] Number of vehicle models: 43
+[17:28:48] Incoming connection: 192.168.1.117:62995
+[17:28:48] [join] Tomy_Morelloo has joined the server (0:192.168.1.117)
+[17:28:48] Prisijunges 0
+[17:29:09] Paspaudþiu spawn ir numeta 1
+[17:29:12] Uþkraunamas Tomy_Morelloo þaidëjas
+[17:30:48] Saugojimas Tomy_Morelloo þaidëjas
+[17:30:48] [part] Tomy_Morelloo has left the server (0:0)
+[17:31:09] Incoming connection: 192.168.1.117:51163
+[17:31:09] [join] Tomy_Morelloo has joined the server (0:192.168.1.117)
+[17:31:09] Prisijunges 0
+[17:31:17] Paspaudþiu spawn ir numeta 1
+[17:31:20] Uþkraunamas Tomy_Morelloo þaidëjas
+[17:31:34] Saugojimas Tomy_Morelloo þaidëjas
+[17:31:34] [part] Tomy_Morelloo has left the server (0:0)
+[17:31:57] Incoming connection: 192.168.1.117:51166
+[17:31:57] [join] Tomy_Morell has joined the server (0:192.168.1.117)
+[17:31:57] Prisijunges 0
+[17:32:09] Paspaudþiu spawn ir numeta 1
+[17:32:11] Saugojimas Tomy_Morell þaidëjas
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[17:51:13] 
+[17:51:13] Server Plugins
+[17:51:13] --------------
+[17:51:13]  Loading plugin: streamer.dll
+[17:51:13]   Loaded.
+[17:51:13]  Loading plugin: sscanf.dll
+[17:51:13] 
+
+[17:51:13]  ===============================
+
+[17:51:13]       sscanf plugin loaded.     
+
+[17:51:13]          Version:  2.8.1        
+
+[17:51:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:51:13]  ===============================
+
+[17:51:13]   Loaded.
+[17:51:13]  Loading plugin: mysql.dll
+[17:51:13] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:51:13]   Loaded.
+[17:51:13]  Loading plugin: crashdetect.dll
+[17:51:13]   crashdetect v4.8.5 is OK.
+[17:51:13]   Loaded.
+[17:51:13]  Loaded 4 plugins.
+
+[17:51:13] 
+[17:51:13] Filterscripts
+[17:51:13] ---------------
+[17:51:13]   Loading filterscript 'cameditor.amx'...
+[17:51:13] 
+--------------------------------------
+[17:51:13]  CamEditor by Drebin
+[17:51:13] --------------------------------------
+
+[17:51:13]   Loaded 1 filterscripts.
+
+[17:51:13] 
+
+---------------------------------------------------
+[17:51:13] [GM System]: Starting GameMode..
+[17:51:13] [GM System]: Main functions of the server is loading...
+[17:51:13] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[17:51:13] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 55ms
+
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:13] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:14] - biznio uþkrauta 0 LT
+[17:51:37] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[17:51:38] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[17:51:38] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[17:51:38]       Tikras Kaimeliø Gyvenimas 
+[17:51:38]       Tinklapis: www.NKG.LT
+[17:51:38]     ------------------------
+
+
+
+
+
+
+
+
+[17:51:38] Originaliø objektø skaicius: 281
+[17:51:38] CreateDynamicObject skaicius: 9.139
+[17:51:38] Number of vehicle models: 43
+[17:52:16] Incoming connection: 192.168.1.117:57539
+[17:52:16] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[17:52:16] Prisijunges 0
+[17:52:30] Paspaudþiu spawn ir numeta 1
+[17:52:31] Saugojimas Tomy_Morello þaidëjas
+[17:53:21] Imam pickupà kurio ID: 66
+[17:53:39] Imam pickupà kurio ID: 161
+[17:53:46] Imam pickupà kurio ID: 162
+[17:54:08] Imam pickupà kurio ID: 167
+[17:54:19] [COMMAND]: Tomy_Morello /melstis
+[17:54:28] Imam pickupà kurio ID: 168
+[17:57:40] Saugojimas Tomy_Morello þaidëjas
+[17:57:40] [part] Tomy_Morello has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[17:58:10] 
+[17:58:10] Server Plugins
+[17:58:10] --------------
+[17:58:10]  Loading plugin: streamer.dll
+[17:58:10]   Loaded.
+[17:58:10]  Loading plugin: sscanf.dll
+[17:58:10] 
+
+[17:58:10]  ===============================
+
+[17:58:10]       sscanf plugin loaded.     
+
+[17:58:10]          Version:  2.8.1        
+
+[17:58:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:58:10]  ===============================
+
+[17:58:10]   Loaded.
+[17:58:10]  Loading plugin: mysql.dll
+[17:58:10] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:58:10]   Loaded.
+[17:58:10]  Loading plugin: crashdetect.dll
+[17:58:10]   crashdetect v4.8.5 is OK.
+[17:58:10]   Loaded.
+[17:58:10]  Loaded 4 plugins.
+
+[17:58:10] 
+[17:58:10] Filterscripts
+[17:58:10] ---------------
+[17:58:10]   Loading filterscript 'cameditor.amx'...
+[17:58:10] 
+--------------------------------------
+[17:58:10]  CamEditor by Drebin
+[17:58:10] --------------------------------------
+
+[17:58:10]   Loaded 1 filterscripts.
+
+[17:58:10] 
+
+---------------------------------------------------
+[17:58:10] [GM System]: Starting GameMode..
+[17:58:10] [GM System]: Main functions of the server is loading...
+[17:58:10] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[17:58:11] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 51ms
+
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:11] - biznio uþkrauta 0 LT
+[17:58:44] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[17:58:45] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[17:58:45] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[17:58:45]       Tikras Kaimeliø Gyvenimas 
+[17:58:45]       Tinklapis: www.NKG.LT
+[17:58:45]     ------------------------
+
+
+
+
+
+
+
+
+[17:58:45] Originaliø objektø skaicius: 281
+[17:58:45] CreateDynamicObject skaicius: 9.139
+[17:58:45] Number of vehicle models: 43
+[17:59:12] Incoming connection: 192.168.1.117:59736
+[17:59:13] [join] Tomy_Morell has joined the server (0:192.168.1.117)
+[17:59:13] Prisijunges 0
+[17:59:22] Paspaudþiu spawn ir numeta 1
+[17:59:24] Saugojimas Tomy_Morell þaidëjas
+[17:59:45] [COMMAND]: Tomy_Morell /variklis
+[18:02:27] Saugojimas Tomy_Morell þaidëjas
+[18:02:27] [part] Tomy_Morell has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[18:51:35] 
+[18:51:35] Server Plugins
+[18:51:35] --------------
+[18:51:35]  Loading plugin: streamer.dll
+[18:51:35]   Loaded.
+[18:51:35]  Loading plugin: sscanf.dll
+[18:51:35] 
+
+[18:51:35]  ===============================
+
+[18:51:35]       sscanf plugin loaded.     
+
+[18:51:35]          Version:  2.8.1        
+
+[18:51:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:51:35]  ===============================
+
+[18:51:35]   Loaded.
+[18:51:35]  Loading plugin: mysql.dll
+[18:51:35] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[18:51:35]   Loaded.
+[18:51:35]  Loading plugin: crashdetect.dll
+[18:51:35]   crashdetect v4.8.5 is OK.
+[18:51:35]   Loaded.
+[18:51:35]  Loaded 4 plugins.
+
+[18:51:35] 
+[18:51:35] Filterscripts
+[18:51:35] ---------------
+[18:51:35]   Loading filterscript 'cameditor.amx'...
+[18:51:36] 
+--------------------------------------
+[18:51:36]  CamEditor by Drebin
+[18:51:36] --------------------------------------
+
+[18:51:36]   Loaded 1 filterscripts.
+
+[18:51:36] 
+
+---------------------------------------------------
+[18:51:36] [GM System]: Starting GameMode..
+[18:51:36] [GM System]: Main functions of the server is loading...
+[18:51:36] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[18:51:36] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 337ms
+
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:37] - biznio uþkrauta 0 LT
+[18:51:54] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[18:51:55] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[18:51:55] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[18:51:55]       Tikras Kaimeliø Gyvenimas 
+[18:51:55]       Tinklapis: www.NKG.LT
+[18:51:55]     ------------------------
+
+
+
+
+
+
+
+
+[18:51:55] Originaliø objektø skaicius: 281
+[18:51:55] CreateDynamicObject skaicius: 9.139
+[18:51:55] Number of vehicle models: 43
+[18:51:58] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[21:16:14] 
+[21:16:14] Server Plugins
+[21:16:14] --------------
+[21:16:14]  Loading plugin: streamer.dll
+[21:16:14]   Loaded.
+[21:16:14]  Loading plugin: sscanf.dll
+[21:16:14] 
+
+[21:16:14]  ===============================
+
+[21:16:14]       sscanf plugin loaded.     
+
+[21:16:14]          Version:  2.8.1        
+
+[21:16:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:16:14]  ===============================
+
+[21:16:14]   Loaded.
+[21:16:14]  Loading plugin: mysql.dll
+[21:16:14] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[21:16:14]   Loaded.
+[21:16:14]  Loading plugin: crashdetect.dll
+[21:16:14]   crashdetect v4.8.5 is OK.
+[21:16:14]   Loaded.
+[21:16:14]  Loaded 4 plugins.
+
+[21:16:14] 
+[21:16:14] Filterscripts
+[21:16:14] ---------------
+[21:16:14]   Loading filterscript 'cameditor.amx'...
+[21:16:14] 
+--------------------------------------
+[21:16:14]  CamEditor by Drebin
+[21:16:14] --------------------------------------
+
+[21:16:14]   Loaded 1 filterscripts.
+
+[21:16:14] 
+
+---------------------------------------------------
+[21:16:14] [GM System]: Starting GameMode..
+[21:16:14] [GM System]: Main functions of the server is loading...
+[21:16:14] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[21:16:14] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 77ms
+
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:14] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+[21:16:15] - biznio uþkrauta 0 LT
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[14:05:27] 
+[14:05:27] Server Plugins
+[14:05:27] --------------
+[14:05:27]  Loading plugin: streamer.dll
+[14:05:27]   Loaded.
+[14:05:27]  Loading plugin: sscanf.dll
+[14:05:27] 
+
+[14:05:27]  ===============================
+
+[14:05:27]       sscanf plugin loaded.     
+
+[14:05:27]          Version:  2.8.1        
+
+[14:05:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:05:27]  ===============================
+
+[14:05:27]   Loaded.
+[14:05:27]  Loading plugin: mysql.dll
+[14:05:28] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[14:05:28]   Loaded.
+[14:05:28]  Loading plugin: crashdetect.dll
+[14:05:28]   crashdetect v4.8.5 is OK.
+[14:05:28]   Loaded.
+[14:05:28]  Loaded 4 plugins.
+
+[14:05:28] 
+[14:05:28] Filterscripts
+[14:05:28] ---------------
+[14:05:28]   Loading filterscript 'cameditor.amx'...
+[14:05:29] 
+--------------------------------------
+[14:05:29]  CamEditor by Drebin
+[14:05:29] --------------------------------------
+
+[14:05:29]   Loaded 1 filterscripts.
+
+[14:05:29] 
+
+---------------------------------------------------
+[14:05:29] [GM System]: Starting GameMode..
+[14:05:29] [GM System]: Main functions of the server is loading...
+[14:05:29] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[14:05:32] [MySQL System]: Connection failed to dabaste: [nkg]
+
+[14:05:32] [MySQL System]: Server can't load, shutting down..
+[14:05:32] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[14:05:32]       Tikras Kaimeliø Gyvenimas 
+[14:05:32]       Tinklapis: www.NKG.LT
+[14:05:32]     ------------------------
+
+
+
+
+
+
+
+
+[14:05:32] Originaliø objektø skaicius: 0
+[14:05:32] CreateDynamicObject skaicius: 0
+[14:05:32] Number of vehicle models: 0
+[14:05:32] --- Server Shutting Down.
+[14:05:32] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[14:05:32] 
+
+[14:05:32]  ===============================
+
+[14:05:32]      sscanf plugin unloaded.    
+
+[14:05:32]  ===============================
+
+[14:05:32] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[14:05:39] 
+[14:05:39] Server Plugins
+[14:05:39] --------------
+[14:05:39]  Loading plugin: streamer.dll
+[14:05:39]   Loaded.
+[14:05:39]  Loading plugin: sscanf.dll
+[14:05:39] 
+
+[14:05:39]  ===============================
+
+[14:05:39]       sscanf plugin loaded.     
+
+[14:05:39]          Version:  2.8.1        
+
+[14:05:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:05:39]  ===============================
+
+[14:05:40]   Loaded.
+[14:05:40]  Loading plugin: mysql.dll
+[14:05:40] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[14:05:40]   Loaded.
+[14:05:40]  Loading plugin: crashdetect.dll
+[14:05:40]   crashdetect v4.8.5 is OK.
+[14:05:40]   Loaded.
+[14:05:40]  Loaded 4 plugins.
+
+[14:05:40] 
+[14:05:40] Filterscripts
+[14:05:40] ---------------
+[14:05:40]   Loading filterscript 'cameditor.amx'...
+[14:05:40] 
+--------------------------------------
+[14:05:40]  CamEditor by Drebin
+[14:05:40] --------------------------------------
+
+[14:05:40]   Loaded 1 filterscripts.
+
+[14:05:40] 
+
+---------------------------------------------------
+[14:05:40] [GM System]: Starting GameMode..
+[14:05:40] [GM System]: Main functions of the server is loading...
+[14:05:40] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[14:05:40] [MySQL System]: Connection failed to dabaste: [nkg]
+
+[14:05:40] [MySQL System]: Server can't load, shutting down..
+[14:05:40] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[14:05:40]       Tikras Kaimeliø Gyvenimas 
+[14:05:40]       Tinklapis: www.NKG.LT
+[14:05:40]     ------------------------
+
+
+
+
+
+
+
+
+[14:05:40] Originaliø objektø skaicius: 0
+[14:05:40] CreateDynamicObject skaicius: 0
+[14:05:40] Number of vehicle models: 0
+[14:05:40] --- Server Shutting Down.
+[14:05:41] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[14:05:41] 
+
+[14:05:41]  ===============================
+
+[14:05:41]      sscanf plugin unloaded.    
+
+[14:05:41]  ===============================
+
+[14:05:41] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[14:07:41] 
+[14:07:41] Server Plugins
+[14:07:41] --------------
+[14:07:41]  Loading plugin: streamer.dll
+[14:07:41]   Loaded.
+[14:07:41]  Loading plugin: sscanf.dll
+[14:07:41] 
+
+[14:07:41]  ===============================
+
+[14:07:41]       sscanf plugin loaded.     
+
+[14:07:41]          Version:  2.8.1        
+
+[14:07:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:07:41]  ===============================
+
+[14:07:41]   Loaded.
+[14:07:41]  Loading plugin: mysql.dll
+[14:07:41] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[14:07:41]   Loaded.
+[14:07:41]  Loading plugin: crashdetect.dll
+[14:07:41]   crashdetect v4.8.5 is OK.
+[14:07:41]   Loaded.
+[14:07:41]  Loaded 4 plugins.
+
+[14:07:41] 
+[14:07:41] Filterscripts
+[14:07:41] ---------------
+[14:07:41]   Loading filterscript 'cameditor.amx'...
+[14:07:41] 
+--------------------------------------
+[14:07:41]  CamEditor by Drebin
+[14:07:41] --------------------------------------
+
+[14:07:41]   Loaded 1 filterscripts.
+
+[14:07:42] 
+
+---------------------------------------------------
+[14:07:42] [GM System]: Starting GameMode..
+[14:07:42] [GM System]: Main functions of the server is loading...
+[14:07:42] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[14:07:42] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 105ms
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[14:08:20] 
+[14:08:20] Server Plugins
+[14:08:20] --------------
+[14:08:20]  Loading plugin: streamer.dll
+[14:08:20]   Loaded.
+[14:08:20]  Loading plugin: sscanf.dll
+[14:08:20] 
+
+[14:08:20]  ===============================
+
+[14:08:20]       sscanf plugin loaded.     
+
+[14:08:20]          Version:  2.8.1        
+
+[14:08:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:08:20]  ===============================
+
+[14:08:20]   Loaded.
+[14:08:20]  Loading plugin: mysql.dll
+[14:08:20] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[14:08:20]   Loaded.
+[14:08:20]  Loading plugin: crashdetect.dll
+[14:08:20]   crashdetect v4.8.5 is OK.
+[14:08:20]   Loaded.
+[14:08:20]  Loaded 4 plugins.
+
+[14:08:21] 
+[14:08:21] Filterscripts
+[14:08:21] ---------------
+[14:08:21]   Loading filterscript 'cameditor.amx'...
+[14:08:21] 
+--------------------------------------
+[14:08:21]  CamEditor by Drebin
+[14:08:21] --------------------------------------
+
+[14:08:21]   Loaded 1 filterscripts.
+
+[14:08:21] 
+
+---------------------------------------------------
+[14:08:21] [GM System]: Starting GameMode..
+[14:08:21] [GM System]: Main functions of the server is loading...
+[14:08:21] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[14:08:21] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 66ms
+
+[14:08:50] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[14:08:51] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[14:08:51] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[14:08:51]       Tikras Kaimeliø Gyvenimas 
+[14:08:51]       Tinklapis: www.NKG.LT
+[14:08:51]     ------------------------
+
+
+
+
+
+
+
+
+[14:08:51] Originaliø objektø skaicius: 281
+[14:08:51] CreateDynamicObject skaicius: 9.139
+[14:08:51] Number of vehicle models: 43
+[14:10:13] Incoming connection: 192.168.1.117:61507
+[14:10:13] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[14:10:13] Prisijunges 0
+[14:10:24] Paspaudþiu spawn ir numeta 1
+[14:10:25] Saugojimas Tomy_Morello þaidëjas
+[14:10:57] Imam pickupà kurio ID: 153
+[14:11:09] Imam pickupà kurio ID: 225
+[14:11:14] Imam pickupà kurio ID: 154
+[14:11:19] Saugojimas Tomy_Morello þaidëjas
+[14:11:19] [part] Tomy_Morello has left the server (0:1)
+[14:12:35] Incoming connection: 192.168.1.117:57268
+[14:12:35] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[14:12:35] Prisijunges 0
+[14:12:45] Paspaudþiu spawn ir numeta 1
+[14:12:48] Uþkraunamas Tomy_Morello þaidëjas
+[14:12:53] Imam pickupà kurio ID: 153
+[14:12:56] Imam pickupà kurio ID: 225
+[14:12:58] Imam pickupà kurio ID: 225
+[14:13:00] Imam pickupà kurio ID: 225
+[14:13:06] Imam pickupà kurio ID: 154
+[14:13:49] Imam pickupà kurio ID: 153
+[14:13:51] Imam pickupà kurio ID: 225
+[14:13:53] Imam pickupà kurio ID: 225
+[14:13:55] Imam pickupà kurio ID: 225
+[14:14:01] [COMMAND]: Tomy_Morello /verslas
+[14:14:05] [COMMAND]: Tomy_Morello /info
+[14:14:09] Imam pickupà kurio ID: 225
+[14:14:11] Imam pickupà kurio ID: 225
+[14:14:13] Imam pickupà kurio ID: 225
+[14:14:16] Imam pickupà kurio ID: 154
+[14:14:31] Saugojimas Tomy_Morello þaidëjas
+[14:14:31] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[14:43:39] 
+[14:43:39] Server Plugins
+[14:43:39] --------------
+[14:43:39]  Loading plugin: streamer.dll
+[14:43:39]   Loaded.
+[14:43:39]  Loading plugin: sscanf.dll
+[14:43:39] 
+
+[14:43:39]  ===============================
+
+[14:43:39]       sscanf plugin loaded.     
+
+[14:43:39]          Version:  2.8.1        
+
+[14:43:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:43:39]  ===============================
+
+[14:43:39]   Loaded.
+[14:43:39]  Loading plugin: mysql.dll
+[14:43:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[14:43:39]   Loaded.
+[14:43:39]  Loading plugin: crashdetect.dll
+[14:43:39]   crashdetect v4.8.5 is OK.
+[14:43:39]   Loaded.
+[14:43:39]  Loaded 4 plugins.
+
+[14:43:39] 
+[14:43:39] Filterscripts
+[14:43:39] ---------------
+[14:43:39]   Loading filterscript 'cameditor.amx'...
+[14:43:39] 
+--------------------------------------
+[14:43:39]  CamEditor by Drebin
+[14:43:39] --------------------------------------
+
+[14:43:39]   Loaded 1 filterscripts.
+
+[14:43:39] 
+
+---------------------------------------------------
+[14:43:39] [GM System]: Starting GameMode..
+[14:43:39] [GM System]: Main functions of the server is loading...
+[14:43:39] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[14:43:39] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 67ms
+
+[14:44:06] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[14:44:08] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[14:44:08] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[14:44:08]       Tikras Kaimeliø Gyvenimas 
+[14:44:08]       Tinklapis: www.NKG.LT
+[14:44:08]     ------------------------
+
+
+
+
+
+
+
+
+[14:44:08] Originaliø objektø skaicius: 281
+[14:44:08] CreateDynamicObject skaicius: 10.269
+[14:44:08] Number of vehicle models: 43
+[14:44:44] Incoming connection: 192.168.1.117:52626
+[14:44:44] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[14:44:44] Prisijunges 0
+[14:44:54] Paspaudþiu spawn ir numeta 1
+[14:44:57] Uþkraunamas Tomy_Morello þaidëjas
+[14:46:08] Saugojimas Tomy_Morello þaidëjas
+[14:46:08] [part] Tomy_Morello has left the server (0:0)
+[14:46:35] Incoming connection: 192.168.1.117:51468
+[14:46:35] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[14:46:35] Prisijunges 0
+[14:46:43] Paspaudþiu spawn ir numeta 1
+[14:46:47] Uþkraunamas Tomy_Morello þaidëjas
+[14:47:08] Saugojimas Tomy_Morello þaidëjas
+[14:47:09] [part] Tomy_Morello has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[13:47:10] 
+[13:47:10] Server Plugins
+[13:47:10] --------------
+[13:47:10]  Loading plugin: streamer.dll
+[13:47:10]   Loaded.
+[13:47:10]  Loading plugin: sscanf.dll
+[13:47:10] 
+
+[13:47:10]  ===============================
+
+[13:47:10]       sscanf plugin loaded.     
+
+[13:47:10]          Version:  2.8.1        
+
+[13:47:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:47:10]  ===============================
+
+[13:47:10]   Loaded.
+[13:47:10]  Loading plugin: mysql.dll
+[13:47:10] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[13:47:10]   Loaded.
+[13:47:10]  Loading plugin: crashdetect.dll
+[13:47:10]   crashdetect v4.8.5 is OK.
+[13:47:10]   Loaded.
+[13:47:10]  Loaded 4 plugins.
+
+[13:47:11] 
+[13:47:11] Filterscripts
+[13:47:11] ---------------
+[13:47:11]   Loading filterscript 'cameditor.amx'...
+[13:47:11] 
+--------------------------------------
+[13:47:11]  CamEditor by Drebin
+[13:47:11] --------------------------------------
+
+[13:47:11]   Loaded 1 filterscripts.
+
+[13:47:11] 
+
+---------------------------------------------------
+[13:47:11] [GM System]: Starting GameMode..
+[13:47:11] [GM System]: Main functions of the server is loading...
+[13:47:11] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[13:47:11] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 158ms
+
+[13:47:32] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[13:47:32] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[13:47:32] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[13:47:32]       Tikras Kaimeliø Gyvenimas 
+[13:47:32]       Tinklapis: www.NKG.LT
+[13:47:32]     ------------------------
+
+
+
+
+
+
+
+
+[13:47:32] Originaliø objektø skaicius: 283
+[13:47:32] CreateDynamicObject skaicius: 9.297
+[13:47:32] Number of vehicle models: 43
+[13:48:02] Incoming connection: 192.168.1.117:51233
+[13:48:03] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[13:48:03] Prisijunges 0
+[13:48:11] Paspaudþiu spawn ir numeta 1
+[13:48:13] Uþkraunamas Tomy_Morello þaidëjas
+[13:48:33] Saugojimas Tomy_Morello þaidëjas
+[13:48:33] [part] Tomy_Morello has left the server (0:0)
+[13:49:24] Incoming connection: 192.168.1.117:54192
+[13:49:24] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[13:49:24] Prisijunges 0
+[13:49:30] Paspaudþiu spawn ir numeta 1
+[13:49:34] Uþkraunamas Tomy_Morello þaidëjas
+[13:51:05] [COMMAND]: Tomy_Morello /variklis
+[13:51:20] Imam pickupà kurio ID: 153
+[13:51:23] Imam pickupà kurio ID: 181
+[13:51:25] Imam pickupà kurio ID: 181
+[13:51:27] Imam pickupà kurio ID: 154
+[13:55:54] Imam pickupà kurio ID: 153
+[13:55:57] Imam pickupà kurio ID: 181
+[13:55:59] Imam pickupà kurio ID: 181
+[13:56:01] Imam pickupà kurio ID: 181
+[13:56:03] Imam pickupà kurio ID: 154
+[13:58:16] Saugojimas Tomy_Morello þaidëjas
+[13:58:16] [part] Tomy_Morello has left the server (0:1)
+[13:59:28] Incoming connection: 192.168.1.117:62498
+[13:59:28] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[13:59:28] Prisijunges 0
+[13:59:37] Paspaudþiu spawn ir numeta 1
+[13:59:44] Uþkraunamas Tomy_Morello þaidëjas
+[14:00:03] [COMMAND]: Tomy_Morello /varyklis
+[14:00:08] [COMMAND]: Tomy_Morello /variklis
+[14:09:31] Saugojimas Tomy_Morello þaidëjas
+[14:09:31] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[14:40:16] 
+[14:40:16] Server Plugins
+[14:40:16] --------------
+[14:40:16]  Loading plugin: streamer.dll
+[14:40:16]   Loaded.
+[14:40:16]  Loading plugin: sscanf.dll
+[14:40:16] 
+
+[14:40:16]  ===============================
+
+[14:40:16]       sscanf plugin loaded.     
+
+[14:40:16]          Version:  2.8.1        
+
+[14:40:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:40:16]  ===============================
+
+[14:40:16]   Loaded.
+[14:40:16]  Loading plugin: mysql.dll
+[14:40:16] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[14:40:16]   Loaded.
+[14:40:16]  Loading plugin: crashdetect.dll
+[14:40:16]   crashdetect v4.8.5 is OK.
+[14:40:16]   Loaded.
+[14:40:16]  Loaded 4 plugins.
+
+[14:40:16] 
+[14:40:16] Filterscripts
+[14:40:16] ---------------
+[14:40:16]   Loading filterscript 'cameditor.amx'...
+[14:40:16] 
+--------------------------------------
+[14:40:16]  CamEditor by Drebin
+[14:40:16] --------------------------------------
+
+[14:40:16]   Loaded 1 filterscripts.
+
+[14:40:17] 
+
+---------------------------------------------------
+[14:40:17] [GM System]: Starting GameMode..
+[14:40:17] [GM System]: Main functions of the server is loading...
+[14:40:17] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[14:40:17] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 55ms
+
+[14:40:36] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[14:40:37] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[14:40:37] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[14:40:37]       Tikras Kaimeliø Gyvenimas 
+[14:40:37]       Tinklapis: www.NKG.LT
+[14:40:37]     ------------------------
+
+
+
+
+
+
+
+
+[14:40:37] Originaliø objektø skaicius: 283
+[14:40:37] CreateDynamicObject skaicius: 9.296
+[14:40:37] Number of vehicle models: 44
+[14:41:02] Incoming connection: 192.168.1.117:61973
+[14:41:03] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[14:41:03] Prisijunges 0
+[14:41:14] Paspaudþiu spawn ir numeta 1
+[14:41:17] Uþkraunamas Tomy_Morello þaidëjas
+[14:42:09] [COMMAND]: Tomy_Morello /variklis
+[14:45:45] Saugojimas Tomy_Morello þaidëjas
+[14:45:45] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[15:45:34] 
+[15:45:34] Server Plugins
+[15:45:34] --------------
+[15:45:34]  Loading plugin: streamer.dll
+[15:45:34]   Loaded.
+[15:45:34]  Loading plugin: sscanf.dll
+[15:45:34] 
+
+[15:45:34]  ===============================
+
+[15:45:34]       sscanf plugin loaded.     
+
+[15:45:34]          Version:  2.8.1        
+
+[15:45:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:45:34]  ===============================
+
+[15:45:34]   Loaded.
+[15:45:34]  Loading plugin: mysql.dll
+[15:45:34] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[15:45:34]   Loaded.
+[15:45:34]  Loading plugin: crashdetect.dll
+[15:45:34]   crashdetect v4.8.5 is OK.
+[15:45:34]   Loaded.
+[15:45:34]  Loaded 4 plugins.
+
+[15:45:34] 
+[15:45:34] Filterscripts
+[15:45:34] ---------------
+[15:45:34]   Loading filterscript 'cameditor.amx'...
+[15:45:35] 
+--------------------------------------
+[15:45:35]  CamEditor by Drebin
+[15:45:35] --------------------------------------
+
+[15:45:35]   Loaded 1 filterscripts.
+
+[15:45:35] 
+
+---------------------------------------------------
+[15:45:35] [GM System]: Starting GameMode..
+[15:45:35] [GM System]: Main functions of the server is loading...
+[15:45:35] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[15:45:35] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 51ms
+
+[15:45:56] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[15:45:56] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[15:45:56] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[15:45:56]       Tikras Kaimeliø Gyvenimas 
+[15:45:56]       Tinklapis: www.NKG.LT
+[15:45:56]     ------------------------
+
+
+
+
+
+
+
+
+[15:45:56] Originaliø objektø skaicius: 283
+[15:45:56] CreateDynamicObject skaicius: 9.438
+[15:45:56] Number of vehicle models: 44
+[15:46:31] Incoming connection: 192.168.1.117:52830
+[15:46:31] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[15:46:31] Prisijunges 0
+[15:46:39] Paspaudþiu spawn ir numeta 1
+[15:46:42] Uþkraunamas Tomy_Morello þaidëjas
+[15:47:29] Imam pickupà kurio ID: 165
+[15:48:22] Saugojimas Tomy_Morello þaidëjas
+[15:48:22] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[15:54:31] 
+[15:54:31] Server Plugins
+[15:54:31] --------------
+[15:54:31]  Loading plugin: streamer.dll
+[15:54:31]   Loaded.
+[15:54:31]  Loading plugin: sscanf.dll
+[15:54:31] 
+
+[15:54:31]  ===============================
+
+[15:54:31]       sscanf plugin loaded.     
+
+[15:54:31]          Version:  2.8.1        
+
+[15:54:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:54:31]  ===============================
+
+[15:54:31]   Loaded.
+[15:54:31]  Loading plugin: mysql.dll
+[15:54:31] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[15:54:31]   Loaded.
+[15:54:31]  Loading plugin: crashdetect.dll
+[15:54:31]   crashdetect v4.8.5 is OK.
+[15:54:31]   Loaded.
+[15:54:31]  Loaded 4 plugins.
+
+[15:54:31] 
+[15:54:31] Filterscripts
+[15:54:31] ---------------
+[15:54:31]   Loading filterscript 'cameditor.amx'...
+[15:54:31] 
+--------------------------------------
+[15:54:31]  CamEditor by Drebin
+[15:54:31] --------------------------------------
+
+[15:54:31]   Loaded 1 filterscripts.
+
+[15:54:31] 
+
+---------------------------------------------------
+[15:54:31] [GM System]: Starting GameMode..
+[15:54:31] [GM System]: Main functions of the server is loading...
+[15:54:31] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[15:54:31] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 48ms
+
+[15:54:50] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[15:54:51] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[15:54:51] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[15:54:51]       Tikras Kaimeliø Gyvenimas 
+[15:54:51]       Tinklapis: www.NKG.LT
+[15:54:51]     ------------------------
+
+
+
+
+
+
+
+
+[15:54:51] Originaliø objektø skaicius: 283
+[15:54:51] CreateDynamicObject skaicius: 9.438
+[15:54:51] Number of vehicle models: 44
+[15:56:38] Incoming connection: 192.168.1.117:63354
+[15:56:38] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[15:56:38] Prisijunges 0
+[15:56:46] Paspaudþiu spawn ir numeta 1
+[15:56:48] Uþkraunamas Tomy_Morello þaidëjas
+[15:56:59] Imam pickupà kurio ID: 166
+[15:57:19] Imam pickupà kurio ID: 165
+[15:57:53] Imam pickupà kurio ID: 166
+[15:58:32] [COMMAND]: Tomy_Morello /variklis
+[16:00:40] Saugojimas Tomy_Morello þaidëjas
+[16:00:40] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[16:04:28] 
+[16:04:28] Server Plugins
+[16:04:28] --------------
+[16:04:28]  Loading plugin: streamer.dll
+[16:04:28]   Loaded.
+[16:04:28]  Loading plugin: sscanf.dll
+[16:04:28] 
+
+[16:04:28]  ===============================
+
+[16:04:28]       sscanf plugin loaded.     
+
+[16:04:28]          Version:  2.8.1        
+
+[16:04:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:04:28]  ===============================
+
+[16:04:28]   Loaded.
+[16:04:28]  Loading plugin: mysql.dll
+[16:04:28] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[16:04:28]   Loaded.
+[16:04:28]  Loading plugin: crashdetect.dll
+[16:04:28]   crashdetect v4.8.5 is OK.
+[16:04:28]   Loaded.
+[16:04:28]  Loaded 4 plugins.
+
+[16:04:28] 
+[16:04:28] Filterscripts
+[16:04:28] ---------------
+[16:04:28]   Loading filterscript 'cameditor.amx'...
+[16:04:28] 
+--------------------------------------
+[16:04:28]  CamEditor by Drebin
+[16:04:28] --------------------------------------
+
+[16:04:28]   Loaded 1 filterscripts.
+
+[16:04:28] 
+
+---------------------------------------------------
+[16:04:28] [GM System]: Starting GameMode..
+[16:04:28] [GM System]: Main functions of the server is loading...
+[16:04:28] 
+[MySQL System]: Connecting to dabaste: nkg ..
+[16:04:29] [MySQL System]: Connection sucesfull to dabaste: [nkg] in 99ms
+
+[16:04:58] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[16:04:59] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[16:04:59] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[16:04:59]       Tikras Kaimeliø Gyvenimas 
+[16:04:59]       Tinklapis: www.NKG.LT
+[16:04:59]     ------------------------
+
+
+
+
+
+
+
+
+[16:04:59] Originaliø objektø skaicius: 283
+[16:04:59] CreateDynamicObject skaicius: 9.438
+[16:04:59] Number of vehicle models: 44
+[16:05:31] Incoming connection: 192.168.1.117:60275
+[16:05:32] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[16:05:32] Prisijunges 0
+[16:05:38] Paspaudþiu spawn ir numeta 1
+[16:05:44] Uþkraunamas Tomy_Morello þaidëjas
+[16:05:49] [COMMAND]: Tomy_Morello /tpdarbas
+[16:05:52] [COMMAND]: Tomy_Morello /tpdarbas
+[16:05:54] [COMMAND]: Tomy_Morello /tpdarba
+[16:06:13] Saugojimas Tomy_Morello þaidëjas
+[16:06:13] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[01:23:33] 
+[01:23:33] Server Plugins
+[01:23:33] --------------
+[01:23:33]  Loading plugin: streamer.dll
+[01:23:33]   Loaded.
+[01:23:33]  Loading plugin: sscanf.dll
+[01:23:33] 
+
+[01:23:33]  ===============================
+
+[01:23:33]       sscanf plugin loaded.     
+
+[01:23:33]          Version:  2.8.1        
+
+[01:23:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:23:33]  ===============================
+
+[01:23:33]   Loaded.
+[01:23:33]  Loading plugin: mysql.dll
+[01:23:33] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[01:23:33]   Loaded.
+[01:23:33]  Loading plugin: crashdetect.dll
+[01:23:33]   crashdetect v4.8.5 is OK.
+[01:23:33]   Loaded.
+[01:23:33]  Loaded 4 plugins.
+
+[01:23:33] 
+[01:23:33] Filterscripts
+[01:23:33] ---------------
+[01:23:33]   Loading filterscript 'cameditor.amx'...
+[01:23:33] 
+--------------------------------------
+[01:23:33]  CamEditor by Drebin
+[01:23:33] --------------------------------------
+
+[01:23:33]   Loaded 1 filterscripts.
+
+[01:23:33] 
+
+---------------------------------------------------
+[01:23:33] [GM System]: Starting GameMode..
+[01:23:33] [GM System]: Main functions of the server is loading...
+[01:23:33] 
+[MySQL System]: Connecting to dabaste: drpg ..
+[01:23:34] [MySQL System]: Connection sucesfull to dabaste: [drpg] in 315ms
+
+[01:23:47] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[01:23:48] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[01:23:48] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[01:23:48]       Tikras Kaimeliø Gyvenimas 
+[01:23:48]       Tinklapis: www.NKG.LT
+[01:23:48]     ------------------------
+
+
+
+
+
+
+
+
+[01:23:48] Originaliø objektø skaicius: 259
+[01:23:48] CreateDynamicObject skaicius: 9.025
+[01:23:48] Number of vehicle models: 44
+[01:24:23] Incoming connection: 192.168.1.117:61991
+[01:24:23] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[01:24:23] Prisijunges 0
+[01:24:36] Paspaudþiu spawn ir numeta 1
+[01:24:37] Saugojimas Tomy_Morello þaidëjas
+[01:24:42] [COMMAND]: Tomy_Morello /info
+[01:25:16] Saugojimas Tomy_Morello þaidëjas
+[01:25:16] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[19:31:13] 
+[19:31:13] Server Plugins
+[19:31:13] --------------
+[19:31:13]  Loading plugin: streamer.dll
+[19:31:13]   Loaded.
+[19:31:13]  Loading plugin: sscanf.dll
+[19:31:13] 
+
+[19:31:13]  ===============================
+
+[19:31:13]       sscanf plugin loaded.     
+
+[19:31:13]          Version:  2.8.1        
+
+[19:31:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:31:13]  ===============================
+
+[19:31:13]   Loaded.
+[19:31:13]  Loading plugin: mysql.dll
+[19:31:13] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[19:31:13]   Loaded.
+[19:31:13]  Loading plugin: crashdetect.dll
+[19:31:13]   crashdetect v4.8.5 is OK.
+[19:31:13]   Loaded.
+[19:31:13]  Loaded 4 plugins.
+
+[19:31:13] 
+[19:31:13] Filterscripts
+[19:31:13] ---------------
+[19:31:13]   Loading filterscript 'cameditor.amx'...
+[19:31:13] 
+--------------------------------------
+[19:31:13]  CamEditor by Drebin
+[19:31:13] --------------------------------------
+
+[19:31:13]   Loaded 1 filterscripts.
+
+[19:31:13] 
+
+---------------------------------------------------
+[19:31:13] [GM System]: Starting GameMode..
+[19:31:13] [GM System]: Main functions of the server is loading...
+[19:31:13] 
+[MySQL System]: Connecting to dabaste: drpg ..
+[19:31:13] [MySQL System]: Connection sucesfull to dabaste: [drpg] in 267ms
+
+[19:31:29] [ SERVERIS ] : Negaliu uzkrauti serverio nustatymus!
+[19:31:29] [ SERVERIS ] [ GAUJOS ] Uzkrauta 0 gauju...
+[19:31:29] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[19:31:29]       Tikras Kaimeliø Gyvenimas 
+[19:31:29]       Tinklapis: www.NKG.LT
+[19:31:29]     ------------------------
+
+
+
+
+
+
+
+
+[19:31:29] Originaliø objektø skaicius: 293
+[19:31:29] CreateDynamicObject skaicius: 9.534
+[19:31:29] Number of vehicle models: 44
+[19:32:01] Incoming connection: 192.168.1.117:65090
+[19:32:01] [join] Tomy_Morello has joined the server (0:192.168.1.117)
+[19:32:01] Prisijunges 0
+[19:35:34] Paspaudþiu spawn ir numeta 1
+[19:35:36] Uþkraunamas Tomy_Morello þaidëjas
+[19:35:51] [COMMAND]: Tomy_Morello /variklis
+[19:37:56] Imam pickupà kurio ID: 80
+[19:38:53] Saugojimas Tomy_Morello þaidëjas
+[19:38:53] [part] Tomy_Morello has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[17:42:32] 
+[17:42:32] Server Plugins
+[17:42:32] --------------
+[17:42:32]  Loading plugin: streamer.dll
+[17:42:32]   Loaded.
+[17:42:32]  Loading plugin: sscanf.dll
+[17:42:32] 
+
+[17:42:32]  ===============================
+
+[17:42:32]       sscanf plugin loaded.     
+
+[17:42:32]          Version:  2.8.1        
+
+[17:42:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:42:32]  ===============================
+
+[17:42:32]   Loaded.
+[17:42:32]  Loading plugin: mysql.dll
+[17:42:33] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:42:33]   Loaded.
+[17:42:33]  Loading plugin: crashdetect.dll
+[17:42:33]   crashdetect v4.8.5 is OK.
+[17:42:33]   Loaded.
+[17:42:33]  Loaded 4 plugins.
+
+[17:42:33] 
+[17:42:33] Filterscripts
+[17:42:33] ---------------
+[17:42:33]   Loading filterscript 'cameditor.amx'...
+[17:42:33] 
+--------------------------------------
+[17:42:33]  CamEditor by Drebin
+[17:42:33] --------------------------------------
+
+[17:42:33]   Loaded 1 filterscripts.
+
+[17:42:33] 
+
+---------------------------------------------------
+[17:42:33] [GM System]: Starting GameMode..
+[17:42:33] [GM System]: Main functions of the server is loading...
+[17:42:33] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[17:42:34] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[17:42:34] [MySQL System]: Server can't load, shutting down..
+[17:42:34] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[17:42:34]       SanAndreas Miesteliu Gyvenimas 
+[17:42:34]       Tinklapis: www.SAMG.LT
+[17:42:34]     ------------------------
+
+
+
+
+
+
+
+
+[17:42:34] Originaliø objektø skaicius: 0
+[17:42:34] CreateDynamicObject skaicius: 0
+[17:42:34] Number of vehicle models: 0
+[17:42:34] --- Server Shutting Down.
+[17:42:34] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[17:42:34] 
+
+[17:42:34]  ===============================
+
+[17:42:34]      sscanf plugin unloaded.    
+
+[17:42:34]  ===============================
+
+[17:42:34] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[17:42:38] 
+[17:42:38] Server Plugins
+[17:42:38] --------------
+[17:42:38]  Loading plugin: streamer.dll
+[17:42:38]   Loaded.
+[17:42:38]  Loading plugin: sscanf.dll
+[17:42:38] 
+
+[17:42:38]  ===============================
+
+[17:42:38]       sscanf plugin loaded.     
+
+[17:42:38]          Version:  2.8.1        
+
+[17:42:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:42:38]  ===============================
+
+[17:42:39]   Loaded.
+[17:42:39]  Loading plugin: mysql.dll
+[17:42:39] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[17:42:39]   Loaded.
+[17:42:39]  Loading plugin: crashdetect.dll
+[17:42:39]   crashdetect v4.8.5 is OK.
+[17:42:39]   Loaded.
+[17:42:39]  Loaded 4 plugins.
+
+[17:42:39] 
+[17:42:39] Filterscripts
+[17:42:39] ---------------
+[17:42:39]   Loading filterscript 'cameditor.amx'...
+[17:42:39] 
+--------------------------------------
+[17:42:39]  CamEditor by Drebin
+[17:42:39] --------------------------------------
+
+[17:42:39]   Loaded 1 filterscripts.
+
+[17:42:39] 
+
+---------------------------------------------------
+[17:42:39] [GM System]: Starting GameMode..
+[17:42:39] [GM System]: Main functions of the server is loading...
+[17:42:39] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[17:42:40] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[17:42:40] [MySQL System]: Server can't load, shutting down..
+[17:42:40] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[17:42:40]       SanAndreas Miesteliu Gyvenimas 
+[17:42:40]       Tinklapis: www.SAMG.LT
+[17:42:40]     ------------------------
+
+
+
+
+
+
+
+
+[17:42:40] Originaliø objektø skaicius: 0
+[17:42:40] CreateDynamicObject skaicius: 0
+[17:42:40] Number of vehicle models: 0
+[17:42:40] --- Server Shutting Down.
+[17:42:40] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[17:42:40] 
+
+[17:42:40]  ===============================
+
+[17:42:40]      sscanf plugin unloaded.    
+
+[17:42:40]  ===============================
+
+[17:42:40] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[22:52:11] 
+[22:52:11] Server Plugins
+[22:52:11] --------------
+[22:52:11]  Loading plugin: streamer.dll
+[22:52:11]   Loaded.
+[22:52:11]  Loading plugin: sscanf.dll
+[22:52:11] 
+
+[22:52:11]  ===============================
+
+[22:52:11]       sscanf plugin loaded.     
+
+[22:52:11]          Version:  2.8.1        
+
+[22:52:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:52:11]  ===============================
+
+[22:52:11]   Loaded.
+[22:52:11]  Loading plugin: mysql.dll
+[22:52:11] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[22:52:11]   Loaded.
+[22:52:11]  Loading plugin: crashdetect.dll
+[22:52:11]   crashdetect v4.8.5 is OK.
+[22:52:11]   Loaded.
+[22:52:11]  Loaded 4 plugins.
+
+[22:52:11] 
+[22:52:11] Filterscripts
+[22:52:11] ---------------
+[22:52:11]   Loading filterscript 'cameditor.amx'...
+[22:52:11] 
+--------------------------------------
+[22:52:11]  CamEditor by Drebin
+[22:52:11] --------------------------------------
+
+[22:52:11]   Loaded 1 filterscripts.
+
+[22:52:11] 
+
+---------------------------------------------------
+[22:52:11] [GM System]: Starting GameMode..
+[22:52:11] [GM System]: Main functions of the server is loading...
+[22:52:11] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[22:52:12] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[22:52:12] [MySQL System]: Server can't load, shutting down..
+[22:52:12] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[22:52:12]       SanAndreas Miesteliu Gyvenimas 
+[22:52:12]       Tinklapis: www.SAMG.LT
+[22:52:12]     ------------------------
+
+
+
+
+
+
+
+
+[22:52:12] Originaliø objektø skaicius: 0
+[22:52:12] CreateDynamicObject skaicius: 0
+[22:52:12] Number of vehicle models: 0
+[22:52:12] --- Server Shutting Down.
+[22:52:12] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[22:52:12] 
+
+[22:52:12]  ===============================
+
+[22:52:12]      sscanf plugin unloaded.    
+
+[22:52:12]  ===============================
+
+[22:52:12] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[22:52:28] 
+[22:52:28] Server Plugins
+[22:52:28] --------------
+[22:52:28]  Loading plugin: streamer.dll
+[22:52:28]   Loaded.
+[22:52:28]  Loading plugin: sscanf.dll
+[22:52:28] 
+
+[22:52:28]  ===============================
+
+[22:52:28]       sscanf plugin loaded.     
+
+[22:52:28]          Version:  2.8.1        
+
+[22:52:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:52:28]  ===============================
+
+[22:52:28]   Loaded.
+[22:52:28]  Loading plugin: mysql.dll
+[22:52:28] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[22:52:28]   Loaded.
+[22:52:28]  Loading plugin: crashdetect.dll
+[22:52:28]   crashdetect v4.8.5 is OK.
+[22:52:28]   Loaded.
+[22:52:28]  Loaded 4 plugins.
+
+[22:52:28] 
+[22:52:28] Filterscripts
+[22:52:28] ---------------
+[22:52:28]   Loading filterscript 'cameditor.amx'...
+[22:52:28] 
+--------------------------------------
+[22:52:28]  CamEditor by Drebin
+[22:52:28] --------------------------------------
+
+[22:52:28]   Loaded 1 filterscripts.
+
+[22:52:28] 
+
+---------------------------------------------------
+[22:52:28] [GM System]: Starting GameMode..
+[22:52:28] [GM System]: Main functions of the server is loading...
+[22:52:28] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[22:52:29] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[22:52:29] [MySQL System]: Server can't load, shutting down..
+[22:52:29] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[22:52:29]       SanAndreas Miesteliu Gyvenimas 
+[22:52:29]       Tinklapis: www.SAMG.LT
+[22:52:29]     ------------------------
+
+
+
+
+
+
+
+
+[22:52:29] Originaliø objektø skaicius: 0
+[22:52:29] CreateDynamicObject skaicius: 0
+[22:52:29] Number of vehicle models: 0
+[22:52:29] --- Server Shutting Down.
+[22:52:29] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[22:52:30] 
+
+[22:52:30]  ===============================
+
+[22:52:30]      sscanf plugin unloaded.    
+
+[22:52:30]  ===============================
+
+[22:52:30] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[23:01:21] 
+[23:01:21] Server Plugins
+[23:01:21] --------------
+[23:01:21]  Loading plugin: streamer.dll
+[23:01:21]   Loaded.
+[23:01:21]  Loading plugin: sscanf.dll
+[23:01:21] 
+
+[23:01:21]  ===============================
+
+[23:01:21]       sscanf plugin loaded.     
+
+[23:01:21]          Version:  2.8.1        
+
+[23:01:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:01:21]  ===============================
+
+[23:01:21]   Loaded.
+[23:01:21]  Loading plugin: mysql.dll
+[23:01:21] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[23:01:21]   Loaded.
+[23:01:21]  Loading plugin: crashdetect.dll
+[23:01:21]   crashdetect v4.8.5 is OK.
+[23:01:21]   Loaded.
+[23:01:21]  Loaded 4 plugins.
+
+[23:01:21] 
+[23:01:21] Filterscripts
+[23:01:21] ---------------
+[23:01:21]   Loading filterscript 'cameditor.amx'...
+[23:01:21] 
+--------------------------------------
+[23:01:21]  CamEditor by Drebin
+[23:01:21] --------------------------------------
+
+[23:01:21]   Loaded 1 filterscripts.
+
+[23:01:21] 
+
+---------------------------------------------------
+[23:01:21] [GM System]: Starting GameMode..
+[23:01:21] [GM System]: Main functions of the server is loading...
+[23:01:21] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[23:01:21] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[23:01:21] [MySQL System]: Server can't load, shutting down..
+[23:01:21] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[23:01:21]       SanAndreas Miesteliu Gyvenimas 
+[23:01:21]       Tinklapis: www.SAMG.LT
+[23:01:21]     ------------------------
+
+
+
+
+
+
+
+
+[23:01:21] Originaliø objektø skaicius: 0
+[23:01:21] CreateDynamicObject skaicius: 0
+[23:01:21] Number of vehicle models: 0
+[23:01:21] --- Server Shutting Down.
+[23:01:21] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[23:01:21] 
+
+[23:01:21]  ===============================
+
+[23:01:21]      sscanf plugin unloaded.    
+
+[23:01:21]  ===============================
+
+[23:01:21] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[23:01:42] 
+[23:01:42] Server Plugins
+[23:01:42] --------------
+[23:01:42]  Loading plugin: streamer.dll
+[23:01:42]   Loaded.
+[23:01:42]  Loading plugin: sscanf.dll
+[23:01:42] 
+
+[23:01:42]  ===============================
+
+[23:01:42]       sscanf plugin loaded.     
+
+[23:01:42]          Version:  2.8.1        
+
+[23:01:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:01:42]  ===============================
+
+[23:01:42]   Loaded.
+[23:01:42]  Loading plugin: mysql.dll
+[23:01:42] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[23:01:42]   Loaded.
+[23:01:42]  Loading plugin: crashdetect.dll
+[23:01:42]   crashdetect v4.8.5 is OK.
+[23:01:42]   Loaded.
+[23:01:42]  Loaded 4 plugins.
+
+[23:01:42] 
+[23:01:42] Filterscripts
+[23:01:42] ---------------
+[23:01:42]   Loading filterscript 'cameditor.amx'...
+[23:01:42] 
+--------------------------------------
+[23:01:42]  CamEditor by Drebin
+[23:01:42] --------------------------------------
+
+[23:01:42]   Loaded 1 filterscripts.
+
+[23:01:43] 
+
+---------------------------------------------------
+[23:01:43] [GM System]: Starting GameMode..
+[23:01:43] [GM System]: Main functions of the server is loading...
+[23:01:43] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[23:01:43] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[23:01:43] [MySQL System]: Server can't load, shutting down..
+[23:01:43] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[23:01:43]       SanAndreas Miesteliu Gyvenimas 
+[23:01:43]       Tinklapis: www.SAMG.LT
+[23:01:43]     ------------------------
+
+
+
+
+
+
+
+
+[23:01:43] Originaliø objektø skaicius: 0
+[23:01:43] CreateDynamicObject skaicius: 0
+[23:01:43] Number of vehicle models: 0
+[23:01:43] --- Server Shutting Down.
+[23:01:43] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[23:01:43] 
+
+[23:01:43]  ===============================
+
+[23:01:43]      sscanf plugin unloaded.    
+
+[23:01:43]  ===============================
+
+[23:01:43] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z-R2, (C)2005-2014 SA-MP Team
+
+[23:05:03] 
+[23:05:03] Server Plugins
+[23:05:03] --------------
+[23:05:03]  Loading plugin: streamer.dll
+[23:05:03]   Loaded.
+[23:05:03]  Loading plugin: sscanf.dll
+[23:05:03] 
+
+[23:05:03]  ===============================
+
+[23:05:03]       sscanf plugin loaded.     
+
+[23:05:03]          Version:  2.8.1        
+
+[23:05:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:05:03]  ===============================
+
+[23:05:03]   Loaded.
+[23:05:03]  Loading plugin: mysql.dll
+[23:05:03] 
+
+  > MySQL plugin R6-2 successfully loaded.
+
+[23:05:03]   Loaded.
+[23:05:03]  Loading plugin: crashdetect.dll
+[23:05:03]   crashdetect v4.8.5 is OK.
+[23:05:03]   Loaded.
+[23:05:03]  Loaded 4 plugins.
+
+[23:05:03] 
+[23:05:03] Filterscripts
+[23:05:03] ---------------
+[23:05:03]   Loading filterscript 'cameditor.amx'...
+[23:05:03] 
+--------------------------------------
+[23:05:03]  CamEditor by Drebin
+[23:05:03] --------------------------------------
+
+[23:05:03]   Loaded 1 filterscripts.
+
+[23:05:03] 
+
+---------------------------------------------------
+[23:05:03] [GM System]: Starting GameMode..
+[23:05:03] [GM System]: Main functions of the server is loading...
+[23:05:03] 
+[MySQL System]: Connecting to dabaste: serveris ..
+[23:05:04] [MySQL System]: Connection failed to dabaste: [serveris]
+
+[23:05:04] [MySQL System]: Server can't load, shutting down..
+[23:05:04] 
+
+
+
+
+
+
+
+
+
+
+
+
+    ------------------------
+[23:05:04]       SanAndreas Miesteliu Gyvenimas 
+[23:05:04]       Tinklapis: www.SAMG.LT
+[23:05:04]     ------------------------
+
+
+
+
+
+
+
+
+[23:05:04] Originaliø objektø skaicius: 0
+[23:05:04] CreateDynamicObject skaicius: 0
+[23:05:04] Number of vehicle models: 0
+[23:05:04] --- Server Shutting Down.
+[23:05:04] 
+
+*** Streamer Plugin v2.7.1 by Incognito unloaded ***
+
+[23:05:04] 
+
+[23:05:04]  ===============================
+
+[23:05:04]      sscanf plugin unloaded.    
+
+[23:05:04]  ===============================
+
+[23:05:04] 
+
+  > MySQL plugin unloaded.
+
